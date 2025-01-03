@@ -1,0 +1,32 @@
+#bodyy{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#bodyH{
+    color: orangered;
+    margin-right: 65px;
+  
+}
+h1{
+    font-size: 70px;
+    margin-right: 70px;
+    margin-top: 100px;
+}
+#bodyButton{
+    width: 250px;
+    height: 70px;
+background-color: black;
+color: white;
+border-radius: 10px;
+font-size: 20px;
+margin-right: 200px;
+}
+p{
+    font-size: 20px;
+}
+#spanP{
+    margin-right: 55px;
+}
+#spanPP{
+margin-right:300px;
+}

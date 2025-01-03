@@ -2,14 +2,24 @@ import '../style/nav.css'
 export default function Home (){
     return(
 <>
-<div id="navGrid">
-<img id="logoO" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/640px-Orange_logo.svg.png"></img>
 
-<h2>home</h2>
-<h1>serch</h1>
-<h1>like</h1>
-<h1>like</h1>
+<div id="navGrid">
+
+<img id="logoO" src="https://mostaql.hsoubcdn.com/uploads/portfolios/2244527/650d609ca4e3f/F78BBB82-8082-4F54-91FD-F8D7813F19D8.jpeg"></img>
+
+
+<ul id="navList">
+    <li class="liNav"><a>HOME</a></li>
+    <li class="liNav"><a>ABOUT</a></li>
+    <li class="liNav"><a>MENU</a></li>
+    <li class="liNav"><a>RESERVATION</a></li>
+    <li class="liNav"><a>HOME</a></li>
+    <li class="liNav"><button>LOGIN</button></li>
+    
+</ul>
+
 </div>
+
 </>
     )
 }

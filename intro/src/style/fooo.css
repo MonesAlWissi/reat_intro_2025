@@ -1,0 +1,6 @@
+#Fo{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: black;
+    color: white;
+}
